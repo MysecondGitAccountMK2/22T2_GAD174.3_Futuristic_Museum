@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BackButton
+  - PlayAudio
+  - InfoButton
   layers:
   - Default
   - TransparentFX
@@ -11,14 +14,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - FuturisticJewellery
+  - FuturisticSword
+  - FuturisticMace
+  - FuturisticBow
+  - OldJewellery
+  - OldSword
+  - OldMace
+  - OldBow
   - 
   - 
   - 
