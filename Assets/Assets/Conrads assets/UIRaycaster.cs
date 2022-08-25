@@ -4,8 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 public class UIRaycaster : MonoBehaviour
 {
-    public GameObject infoCanvas;
+    public GameObject futuristicJewelleryCanvas, futurisitcBowCanvas, futuristicMaceCanvas, futuristicSwordCanvas, oldJewelleryCanvas, oldBowCanvas, oldSowrdCanvas, oldMaceCanvas;
     public Camera cam;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -29,165 +30,200 @@ public class UIRaycaster : MonoBehaviour
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicJewelleryCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicJewelleryCanvas.SetActive(false);
+                    // FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
-            LayerMask.GetMask("FuturisticSword");
+            LayerMask futuristicsword = LayerMask.GetMask("FuturisticSword");
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, futuristicsword))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicSwordCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
-
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("TTS_Future_Sword");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicSwordCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
-            LayerMask.GetMask("FuturisticMace");
+            LayerMask futuristicmace = LayerMask.GetMask("FuturisticMace");
+            
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, futuristicmace))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicMaceCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futuristicMaceCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
-            LayerMask.GetMask("FuturisticBow");
+            LayerMask futuristicbow = LayerMask.GetMask("FuturisticBow");
+            
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, futuristicbow))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futurisitcBowCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Futuristic Crossbow Audio 1");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    futurisitcBowCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
+            LayerMask oldjewellery = LayerMask.GetMask("OldJewellery");
             LayerMask.GetMask("OldJewellery");
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, oldjewellery))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldJewelleryCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldJewelleryCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
+            LayerMask oldsword = LayerMask.GetMask("OldSword");
             LayerMask.GetMask("OldSword");
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, oldsword))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldSowrdCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
-
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    
+                        
+                    FindObjectOfType<AudioManager>().Play("TTS_Ancient_Sword");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldSowrdCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
-            LayerMask.GetMask("OldMace");
+            LayerMask oldmace = LayerMask.GetMask("OldMace");
+            
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, oldmace))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldMaceCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
+
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldMaceCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
             }
-            LayerMask.GetMask("OldBow");
+            LayerMask oldbow = LayerMask.GetMask("OldBow");
+            
             // Check if a Wall is hit.
-            if (Physics.Raycast(transform.position, transform.forward, 20.0f, mask))
+            if (Physics.Raycast(transform.position, transform.forward, 20.0f, oldbow))
             {
                 if (hit.transform.tag == "InfoButton")
                 {
 
-                    infoCanvas.SetActive(true);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldBowCanvas.SetActive(true);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "PlayAudio")
                 {
 
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Old Crossbow Audio");
+                    FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
                 {
-                    infoCanvas.SetActive(false);
-                    FindObjectOfType<AudioManager>().Play("Space_Button");
+                    oldBowCanvas.SetActive(false);
+                    //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Click");
+
                 }
             }
 

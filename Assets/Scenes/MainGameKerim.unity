@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.00080954505, g: 0.004162026, b: 0.020064274, a: 1}
+  m_IndirectSpecularColor: {r: 0.00080953666, g: 0.004162025, b: 0.02006424, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 5076494}
   - component: {fileID: 5076496}
   - component: {fileID: 5076495}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -439,7 +439,7 @@ GameObject:
   - component: {fileID: 21545096}
   - component: {fileID: 21545095}
   - component: {fileID: 21545094}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -543,7 +543,7 @@ GameObject:
   - component: {fileID: 26191085}
   - component: {fileID: 26191087}
   - component: {fileID: 26191086}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -680,7 +680,7 @@ GameObject:
   - component: {fileID: 35912443}
   - component: {fileID: 35912442}
   - component: {fileID: 35912441}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -790,7 +790,7 @@ GameObject:
   - component: {fileID: 38729457}
   - component: {fileID: 38729459}
   - component: {fileID: 38729458}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -955,7 +955,7 @@ GameObject:
   - component: {fileID: 40977232}
   - component: {fileID: 40977234}
   - component: {fileID: 40977233}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1031,7 +1031,7 @@ GameObject:
   - component: {fileID: 41746620}
   - component: {fileID: 41746622}
   - component: {fileID: 41746621}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1471,7 +1471,7 @@ GameObject:
   - component: {fileID: 57318488}
   - component: {fileID: 57318487}
   - component: {fileID: 57318486}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -2485,7 +2485,7 @@ GameObject:
   - component: {fileID: 154657631}
   - component: {fileID: 154657633}
   - component: {fileID: 154657632}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2758,7 +2758,7 @@ GameObject:
   - component: {fileID: 179556414}
   - component: {fileID: 179556413}
   - component: {fileID: 179556412}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -3174,7 +3174,7 @@ GameObject:
   - component: {fileID: 227254609}
   - component: {fileID: 227254611}
   - component: {fileID: 227254610}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3415,7 +3415,7 @@ GameObject:
   - component: {fileID: 249105805}
   - component: {fileID: 249105804}
   - component: {fileID: 249105803}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -3630,7 +3630,7 @@ GameObject:
   - component: {fileID: 258783023}
   - component: {fileID: 258783025}
   - component: {fileID: 258783024}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4035,7 +4035,7 @@ GameObject:
   - component: {fileID: 311397124}
   - component: {fileID: 311397126}
   - component: {fileID: 311397125}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4175,7 +4175,7 @@ GameObject:
   - component: {fileID: 317389864}
   - component: {fileID: 317389863}
   - component: {fileID: 317389862}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -4707,7 +4707,7 @@ GameObject:
   - component: {fileID: 353465658}
   - component: {fileID: 353465660}
   - component: {fileID: 353465659}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4783,7 +4783,7 @@ GameObject:
   - component: {fileID: 358867702}
   - component: {fileID: 358867704}
   - component: {fileID: 358867703}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4898,7 +4898,7 @@ GameObject:
   - component: {fileID: 372254388}
   - component: {fileID: 372254387}
   - component: {fileID: 372254386}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5006,7 +5006,7 @@ GameObject:
   - component: {fileID: 378300357}
   - component: {fileID: 378300356}
   - component: {fileID: 378300355}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -5546,7 +5546,7 @@ GameObject:
   - component: {fileID: 418490022}
   - component: {fileID: 418490021}
   - component: {fileID: 418490020}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: FutureMaceInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5773,7 +5773,7 @@ GameObject:
   - component: {fileID: 431870462}
   - component: {fileID: 431870461}
   - component: {fileID: 431870460}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -5944,7 +5944,7 @@ GameObject:
   - component: {fileID: 443336999}
   - component: {fileID: 443337001}
   - component: {fileID: 443337000}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6096,7 +6096,7 @@ GameObject:
   - component: {fileID: 453541117}
   - component: {fileID: 453541119}
   - component: {fileID: 453541118}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6304,7 +6304,7 @@ GameObject:
   - component: {fileID: 461806321}
   - component: {fileID: 461806320}
   - component: {fileID: 461806319}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -6480,7 +6480,7 @@ GameObject:
   - component: {fileID: 481921029}
   - component: {fileID: 481921028}
   - component: {fileID: 481921027}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -6692,10 +6692,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - clip: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 4c6a362717c0fbe4db5c377dedf05e5f, type: 3}
     volume: 1
     pitch: 1
-    name: 
+    name: Futuristic Crossbow Audio 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 639960dec80d1da40bceede813abddd4, type: 3}
+    volume: 1
+    pitch: 1
+    name: Old Crossbow Audio
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: ca7d3094a28aff745b1b2d619200a0c7, type: 3}
+    volume: 1
+    pitch: 1
+    name: TTS_Ancient_Sword
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: d331ed0139f0828479e0fe11f73064ca, type: 3}
+    volume: 1
+    pitch: 1
+    name: TTS_Future_Sword
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: bfc5803fa8fa8924bbeaa34f4f689bb1, type: 3}
+    volume: 1
+    pitch: 1
+    name: Click
     source: {fileID: 0}
 --- !u!1 &513197413
 GameObject:
@@ -6708,7 +6728,7 @@ GameObject:
   - component: {fileID: 513197414}
   - component: {fileID: 513197416}
   - component: {fileID: 513197415}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7010,7 +7030,7 @@ GameObject:
   - component: {fileID: 546819114}
   - component: {fileID: 546819116}
   - component: {fileID: 546819115}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7180,7 +7200,7 @@ GameObject:
   - component: {fileID: 565770783}
   - component: {fileID: 565770782}
   - component: {fileID: 565770781}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -7351,7 +7371,7 @@ GameObject:
   - component: {fileID: 569553851}
   - component: {fileID: 569553853}
   - component: {fileID: 569553852}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7431,7 +7451,7 @@ GameObject:
   - component: {fileID: 569758810}
   - component: {fileID: 569758809}
   - component: {fileID: 569758808}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -8082,7 +8102,7 @@ GameObject:
   - component: {fileID: 632898389}
   - component: {fileID: 632898388}
   - component: {fileID: 632898387}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: OldMaceInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8217,7 +8237,7 @@ GameObject:
   - component: {fileID: 676873606}
   - component: {fileID: 676873608}
   - component: {fileID: 676873607}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8863,7 +8883,7 @@ GameObject:
   - component: {fileID: 703979649}
   - component: {fileID: 703979651}
   - component: {fileID: 703979650}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9003,7 +9023,7 @@ GameObject:
   - component: {fileID: 707027192}
   - component: {fileID: 707027191}
   - component: {fileID: 707027190}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -9276,7 +9296,7 @@ GameObject:
   - component: {fileID: 708230970}
   - component: {fileID: 708230972}
   - component: {fileID: 708230971}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9390,7 +9410,7 @@ GameObject:
   - component: {fileID: 730035036}
   - component: {fileID: 730035038}
   - component: {fileID: 730035037}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9437,7 +9457,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "EMLR Crossbow:\n\nThe Elysium Magnetic Light Rail Crossbow or (EMLR) for
+    short was designed in the year 6038 for the second Galactic war and used by the
+    Elysium Federation as a solution to the silent long range reconossance weapon
+    problem that they faced at the time. \n\nIn deployment the soldiers that used
+    this weapon gave it a second name, Emily. Emily was the first victim of the weapon
+    and its only developer. Speculations say that her death was a coverup by the
+    federation and soldiers use this name as a means to show defience."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 151ff280f02db6b44a31b9c402ad359e, type: 2}
   m_sharedMaterial: {fileID: -1979086393576029690, guid: 151ff280f02db6b44a31b9c402ad359e,
@@ -9465,8 +9491,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9674,7 +9700,7 @@ GameObject:
   - component: {fileID: 743662801}
   - component: {fileID: 743662803}
   - component: {fileID: 743662802}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10391,7 +10417,7 @@ GameObject:
   - component: {fileID: 798977930}
   - component: {fileID: 798977932}
   - component: {fileID: 798977931}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10702,7 +10728,7 @@ GameObject:
   - component: {fileID: 814783465}
   - component: {fileID: 814783467}
   - component: {fileID: 814783466}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10898,7 +10924,7 @@ GameObject:
   - component: {fileID: 819968440}
   - component: {fileID: 819968442}
   - component: {fileID: 819968441}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11421,7 +11447,7 @@ GameObject:
   - component: {fileID: 859066160}
   - component: {fileID: 859066162}
   - component: {fileID: 859066161}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11498,7 +11524,7 @@ GameObject:
   - component: {fileID: 860100187}
   - component: {fileID: 860100186}
   - component: {fileID: 860100185}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: OldSwordInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12051,7 +12077,7 @@ GameObject:
   - component: {fileID: 896507296}
   - component: {fileID: 896507298}
   - component: {fileID: 896507297}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12127,7 +12153,7 @@ GameObject:
   - component: {fileID: 899586140}
   - component: {fileID: 899586142}
   - component: {fileID: 899586141}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12738,7 +12764,7 @@ GameObject:
   - component: {fileID: 948751604}
   - component: {fileID: 948751603}
   - component: {fileID: 948751602}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12843,7 +12869,7 @@ GameObject:
   - component: {fileID: 952657090}
   - component: {fileID: 952657089}
   - component: {fileID: 952657088}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: FutureBowInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13290,7 +13316,7 @@ GameObject:
   - component: {fileID: 979307572}
   - component: {fileID: 979307574}
   - component: {fileID: 979307573}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14176,7 +14202,7 @@ GameObject:
   - component: {fileID: 1051145747}
   - component: {fileID: 1051145746}
   - component: {fileID: 1051145745}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -14964,7 +14990,7 @@ GameObject:
   - component: {fileID: 1103331135}
   - component: {fileID: 1103331137}
   - component: {fileID: 1103331136}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15364,7 +15390,7 @@ GameObject:
   - component: {fileID: 1141512432}
   - component: {fileID: 1141512431}
   - component: {fileID: 1141512430}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -15536,7 +15562,7 @@ GameObject:
   - component: {fileID: 1141827831}
   - component: {fileID: 1141827833}
   - component: {fileID: 1141827832}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15707,7 +15733,7 @@ GameObject:
   - component: {fileID: 1168860555}
   - component: {fileID: 1168860557}
   - component: {fileID: 1168860556}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15789,7 +15815,7 @@ GameObject:
   - component: {fileID: 1176331654}
   - component: {fileID: 1176331656}
   - component: {fileID: 1176331655}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16158,7 +16184,7 @@ GameObject:
   - component: {fileID: 1223371294}
   - component: {fileID: 1223371296}
   - component: {fileID: 1223371295}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16354,7 +16380,7 @@ GameObject:
   - component: {fileID: 1252159804}
   - component: {fileID: 1252159806}
   - component: {fileID: 1252159805}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16430,7 +16456,7 @@ GameObject:
   - component: {fileID: 1254473062}
   - component: {fileID: 1254473064}
   - component: {fileID: 1254473063}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16603,7 +16629,7 @@ GameObject:
   - component: {fileID: 1258748352}
   - component: {fileID: 1258748354}
   - component: {fileID: 1258748353}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16870,7 +16896,7 @@ GameObject:
   - component: {fileID: 1269234312}
   - component: {fileID: 1269234314}
   - component: {fileID: 1269234313}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17213,7 +17239,7 @@ GameObject:
   - component: {fileID: 1298477745}
   - component: {fileID: 1298477747}
   - component: {fileID: 1298477746}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17384,7 +17410,7 @@ GameObject:
   - component: {fileID: 1305151056}
   - component: {fileID: 1305151058}
   - component: {fileID: 1305151057}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17813,7 +17839,7 @@ GameObject:
   - component: {fileID: 1339266303}
   - component: {fileID: 1339266305}
   - component: {fileID: 1339266304}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17949,7 +17975,7 @@ GameObject:
   - component: {fileID: 1341387759}
   - component: {fileID: 1341387761}
   - component: {fileID: 1341387760}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18569,7 +18595,7 @@ GameObject:
   - component: {fileID: 1381442844}
   - component: {fileID: 1381442843}
   - component: {fileID: 1381442842}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18803,7 +18829,7 @@ GameObject:
   - component: {fileID: 1406319949}
   - component: {fileID: 1406319948}
   - component: {fileID: 1406319947}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -18974,7 +19000,7 @@ GameObject:
   - component: {fileID: 1419259510}
   - component: {fileID: 1419259512}
   - component: {fileID: 1419259511}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19215,7 +19241,7 @@ GameObject:
   - component: {fileID: 1425070073}
   - component: {fileID: 1425070075}
   - component: {fileID: 1425070074}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19739,7 +19765,7 @@ GameObject:
   - component: {fileID: 1478549207}
   - component: {fileID: 1478549209}
   - component: {fileID: 1478549208}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19895,7 +19921,7 @@ GameObject:
   - component: {fileID: 1480853755}
   - component: {fileID: 1480853754}
   - component: {fileID: 1480853753}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -20703,7 +20729,7 @@ GameObject:
   - component: {fileID: 1524789534}
   - component: {fileID: 1524789536}
   - component: {fileID: 1524789535}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20940,7 +20966,7 @@ GameObject:
   - component: {fileID: 1546305972}
   - component: {fileID: 1546305974}
   - component: {fileID: 1546305973}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21016,7 +21042,7 @@ GameObject:
   - component: {fileID: 1548555183}
   - component: {fileID: 1548555185}
   - component: {fileID: 1548555184}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Boarder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21175,7 +21201,7 @@ GameObject:
   - component: {fileID: 1578355894}
   - component: {fileID: 1578355893}
   - component: {fileID: 1578355892}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Image(Clickable)
   m_TagString: InfoButton
   m_Icon: {fileID: 0}
@@ -21431,7 +21457,7 @@ GameObject:
   - component: {fileID: 1588503347}
   - component: {fileID: 1588503349}
   - component: {fileID: 1588503348}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21580,7 +21606,7 @@ GameObject:
   - component: {fileID: 1614413426}
   - component: {fileID: 1614413425}
   - component: {fileID: 1614413424}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21779,7 +21805,7 @@ GameObject:
   - component: {fileID: 1625311427}
   - component: {fileID: 1625311429}
   - component: {fileID: 1625311428}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21922,7 +21948,7 @@ GameObject:
   - component: {fileID: 1631517810}
   - component: {fileID: 1631517809}
   - component: {fileID: 1631517808}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: InfoplanelCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22054,7 +22080,7 @@ GameObject:
   - component: {fileID: 1646332941}
   - component: {fileID: 1646332940}
   - component: {fileID: 1646332939}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -22389,7 +22415,7 @@ GameObject:
   - component: {fileID: 1656620456}
   - component: {fileID: 1656620458}
   - component: {fileID: 1656620457}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22436,7 +22462,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "Used in the year 1400 on the planet earth, this 15c crossbow was used
+    as a long range projectile based weapon. Although most documents associated with
+    the weapon and its designs are lost due to the destruction of the earth in the
+    first galactic war in the year 3400.\n\n Historians belive that this weapon fired
+    some sort of sharp metalic object such as a spear and  that this weapon before
+    you is a down scaled design version of a much larger one.\n\nThis weapon was
+    the last recovered relic from the Elysium federation's flag ship, the Maclyian
+    which met its demise defending earth to the end."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 151ff280f02db6b44a31b9c402ad359e, type: 2}
   m_sharedMaterial: {fileID: -1979086393576029690, guid: 151ff280f02db6b44a31b9c402ad359e,
@@ -22464,8 +22497,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -22525,7 +22558,7 @@ GameObject:
   - component: {fileID: 1661589057}
   - component: {fileID: 1661589059}
   - component: {fileID: 1661589058}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22635,7 +22668,7 @@ GameObject:
   - component: {fileID: 1668335696}
   - component: {fileID: 1668335695}
   - component: {fileID: 1668335694}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: FutureSwordInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23281,7 +23314,7 @@ GameObject:
   - component: {fileID: 1691974039}
   - component: {fileID: 1691974038}
   - component: {fileID: 1691974037}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -23465,7 +23498,7 @@ GameObject:
   - component: {fileID: 1692437906}
   - component: {fileID: 1692437908}
   - component: {fileID: 1692437907}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23659,7 +23692,7 @@ GameObject:
   - component: {fileID: 1702867984}
   - component: {fileID: 1702867986}
   - component: {fileID: 1702867985}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23796,7 +23829,7 @@ GameObject:
   - component: {fileID: 1714038446}
   - component: {fileID: 1714038445}
   - component: {fileID: 1714038444}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: OldNeckLaceInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24067,7 +24100,7 @@ GameObject:
   - component: {fileID: 1742054218}
   - component: {fileID: 1742054220}
   - component: {fileID: 1742054219}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24143,7 +24176,7 @@ GameObject:
   - component: {fileID: 1745420287}
   - component: {fileID: 1745420289}
   - component: {fileID: 1745420288}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24361,7 +24394,7 @@ GameObject:
   - component: {fileID: 1764013455}
   - component: {fileID: 1764013457}
   - component: {fileID: 1764013456}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24408,7 +24441,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "The History of the samurai sword dates back to the 16th century passed
+    down the Rodrigues' family line for generations, which was later upgraded with
+    20th century High-Frequency technology at Sam Rodrigues' request. \n\nDue to
+    the already impressive quality of the original weapon, the Murasama boasts durability
+    and cutting power far beyond that of standard HF blades."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 151ff280f02db6b44a31b9c402ad359e, type: 2}
   m_sharedMaterial: {fileID: -1979086393576029690, guid: 151ff280f02db6b44a31b9c402ad359e,
@@ -24436,8 +24473,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24672,7 +24709,7 @@ GameObject:
   - component: {fileID: 1769085111}
   - component: {fileID: 1769085113}
   - component: {fileID: 1769085112}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24748,7 +24785,7 @@ GameObject:
   - component: {fileID: 1777876059}
   - component: {fileID: 1777876061}
   - component: {fileID: 1777876060}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24934,7 +24971,7 @@ GameObject:
   - component: {fileID: 1787922766}
   - component: {fileID: 1787922768}
   - component: {fileID: 1787922767}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: Panel (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25253,7 +25290,7 @@ GameObject:
   - component: {fileID: 1801071759}
   - component: {fileID: 1801071761}
   - component: {fileID: 1801071760}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26506,7 +26543,7 @@ GameObject:
   - component: {fileID: 1904379230}
   - component: {fileID: 1904379232}
   - component: {fileID: 1904379231}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26553,7 +26590,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "This Ancient Samurai sword founded in the Edo Period is said to be cursed
+    by the previous wielder Kozuki Sukiyaki who crafted Sandai Kitetsu in imitation
+    of one of the 21 Great swords, Nidai Kitetsu, which also became an infamous cursed
+    sword. It was later exported overseas and was eventually acquired by Ipponmatsu.
+    Fearing its curse, he refused to sell it until a Swordsman took a liking to Sandai
+    Kitetsu because of its cursed nature. \n\nThe Swordsman courageously tested his
+    luck by risking his arm, extending it against Sandai Kitetsu's falling edge,
+    ultimately keeping the sword after his luck prevailed over the curse."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 151ff280f02db6b44a31b9c402ad359e, type: 2}
   m_sharedMaterial: {fileID: -1979086393576029690, guid: 151ff280f02db6b44a31b9c402ad359e,
@@ -26581,8 +26625,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -26642,7 +26686,7 @@ GameObject:
   - component: {fileID: 1906241106}
   - component: {fileID: 1906241108}
   - component: {fileID: 1906241107}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26781,7 +26825,7 @@ GameObject:
   - component: {fileID: 1919347062}
   - component: {fileID: 1919347064}
   - component: {fileID: 1919347063}
-  m_Layer: 6
+  m_Layer: 12
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27015,7 +27059,7 @@ GameObject:
   - component: {fileID: 1941489013}
   - component: {fileID: 1941489012}
   - component: {fileID: 1941489011}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -27219,7 +27263,7 @@ GameObject:
   - component: {fileID: 1945252552}
   - component: {fileID: 1945252554}
   - component: {fileID: 1945252553}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27502,8 +27546,8 @@ GameObject:
   - component: {fileID: 1963705670}
   - component: {fileID: 1963705669}
   - component: {fileID: 1963705668}
-  m_Layer: 6
-  m_Name: OldBoxInfo
+  m_Layer: 13
+  m_Name: OldBowInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27607,7 +27651,7 @@ GameObject:
   - component: {fileID: 1979979300}
   - component: {fileID: 1979979302}
   - component: {fileID: 1979979301}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28204,7 +28248,7 @@ GameObject:
   - component: {fileID: 2010387401}
   - component: {fileID: 2010387403}
   - component: {fileID: 2010387402}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: QuestionMarkboarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28405,7 +28449,7 @@ GameObject:
   - component: {fileID: 2028250616}
   - component: {fileID: 2028250615}
   - component: {fileID: 2028250614}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Back Button(Clickable)
   m_TagString: BackButton
   m_Icon: {fileID: 0}
@@ -28706,6 +28750,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MainPlayer
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -28780,7 +28828,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53853ca9ddc477c4cbb89a3a986d5a52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  infoCanvas: {fileID: 192228450}
+  futuristicJewelleryCanvas: {fileID: 192228450}
+  futurisitcBowCanvas: {fileID: 948751600}
+  futuristicMaceCanvas: {fileID: 372254384}
+  futuristicSwordCanvas: {fileID: 1631517806}
+  oldJewelleryCanvas: {fileID: 21545092}
+  oldBowCanvas: {fileID: 1381442840}
+  oldSowrdCanvas: {fileID: 35912439}
+  oldMaceCanvas: {fileID: 1614413422}
   cam: {fileID: 2041976940}
 --- !u!114 &2041976942
 MonoBehaviour:
@@ -28987,7 +29042,7 @@ GameObject:
   - component: {fileID: 2077957938}
   - component: {fileID: 2077957937}
   - component: {fileID: 2077957936}
-  m_Layer: 6
+  m_Layer: 11
   m_Name: Play Audio Button(clickable)
   m_TagString: PlayAudio
   m_Icon: {fileID: 0}
@@ -29489,7 +29544,7 @@ GameObject:
   - component: {fileID: 2108267598}
   - component: {fileID: 2108267600}
   - component: {fileID: 2108267599}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Boarder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29671,7 +29726,7 @@ GameObject:
   - component: {fileID: 2125899477}
   - component: {fileID: 2125899479}
   - component: {fileID: 2125899478}
-  m_Layer: 6
+  m_Layer: 9
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29778,7 +29833,7 @@ GameObject:
   - component: {fileID: 2130703173}
   - component: {fileID: 2130703175}
   - component: {fileID: 2130703174}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: questionmarkfill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29886,7 +29941,7 @@ GameObject:
   - component: {fileID: 2138426621}
   - component: {fileID: 2138426623}
   - component: {fileID: 2138426622}
-  m_Layer: 6
+  m_Layer: 13
   m_Name: Boarder (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
