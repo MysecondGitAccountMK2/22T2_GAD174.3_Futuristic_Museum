@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class StartButton : MonoBehaviour
+public class BP_ButtonQuitter : MonoBehaviour
 {
-    public void LoadScene()
+    public void OnClick()
     {
-        SceneManager.LoadScene("MainGameKerim");
+        Application.Quit();
     }
 }
