@@ -86,6 +86,7 @@ public class UIRaycaster : MonoBehaviour
                 {
 
                     //FindObjectOfType<AudioManager>().Play("Space_Button");
+                    FindObjectOfType<AudioManager>().Play("Futuristic mace sounds");
                     FindObjectOfType<AudioManager>().Play("Click");
                 }
                 if (hit.transform.tag == "BackButton")
